@@ -1,0 +1,134 @@
+body {
+    background-color: #f9f9f9;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #008E97;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .page-heading {
+    margin: 0;
+  }
+  
+  main {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .fan-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+  }
+  
+  #facts-section,
+  #quotes-section,
+  #links-section {
+    margin-bottom: 20px;
+  }
+  
+  .section-heading {
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #008E97;
+    color: white;
+  }
+  
+  blockquote {
+    font-style: italic;
+    margin: 10px 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: #008E97;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  
+  body {
+    background-color: #f9f9f9;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #FC4C02; 
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  main {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .info-form input,
+  .info-form button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .info-form button {
+    background-color: #FC4C02;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .info-form button:hover {
+    background-color: #FF6F3F; 
+  }
+  
